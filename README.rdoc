@@ -11,7 +11,7 @@ enhancements.
 
 Add it to the Gemfile as follows:
 
-  gem "cucumber-rails", :git => "git@github.com:alg/cucumber-rails3.git"
+  gem "cucumber-rails", :git => "git@github.com:alg/cucumber-rails.git"
 
 then:
 
